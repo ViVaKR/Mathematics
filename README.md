@@ -1,6 +1,8 @@
 # Mathematics
 
-## [수열](READMESeq.md)  
+## [수열](Sequence.md)  
+
+
 
 ## Refs Snippets
 
@@ -36,5 +38,4 @@ $\color{Blue}{x^2},\,\color{Red}{2x},\,\color{Green}{1}$
 $a_{i,j}$  
 $x_2^3$  
 $\sum_{k=1}^N k^2$
-
 $\lim_{n \to \infty}x_n$
